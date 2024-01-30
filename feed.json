@@ -71,14 +71,14 @@
             "url": "https://itmeet.top/itm-2/",
             "title": "International Tech Meetups",
             "summary": "First ITM event is going to happen 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo View or plot a route:&nbsp;OpenStreetMap,&nbsp;Google map, Mapiliary, Other maps)&hellip;",
-            "content_html": "\n  <p>\n    <br>First ITM event is going to happen 17 February 2024.\n  </p>\n\n  <p>\n    <b>Location</b>: Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>View or plot a route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website</b>: rebel.no<br><br>International Tech Meetups is consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
+            "content_html": "\n  <p>\n    <br>First ITM event is going to happen 17 February 2024.\n  </p>\n\n  <p>\n    <b>Location</b>: Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>View or plot a route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\" class=\"\" target=\"_blank\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website</b>: rebel.no<br><br>International Tech Meetups is consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-01-25T07:19:27+01:00",
-            "date_modified": "2024-01-30T01:39:11+01:00"
+            "date_modified": "2024-01-30T02:44:24+01:00"
         },
         {
             "id": "https://itmeet.top/about-us/",

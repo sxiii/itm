@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-01-30T02:44:24+01:00</updated>
+    <updated>2024-01-30T02:55:55+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -263,7 +263,7 @@
         <link href="https://itmeet.top/tools/"/>
         <id>https://itmeet.top/tools/</id>
 
-        <updated>2024-01-30T01:43:58+01:00</updated>
+        <updated>2024-01-30T02:55:55+01:00</updated>
             <summary>
                 <![CDATA[
                     Our favourites List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations&hellip;
@@ -293,7 +293,7 @@
     </h2>
 
   <ul>
-    <li>Framework Laptops</li><li>MNT Reform - Dev ARM Laptop</li><li>Raspberry Pi, Orange Pi (prototyping)</li><li>Steam Deck (mobility, gaming)</li>
+    <li><a href="https://frame.work" target="_blank">Framework Laptops</a></li><li><a href="https://mntre.com" target="_blank">MNT Reform</a> - Dev ARM Laptop</li><li><a href="https://rpilocator.com/" target="_blank">Raspberry Pi</a>, <a href="http://www.orangepi.org/" target="_blank">Orange Pi</a> (prototyping)</li><li><a href="https://store.steampowered.com/steamdeck" target="_blank">Steam Deck</a> (mobility, gaming)</li>
   </ul>
 
     <h2 id="software">
@@ -301,7 +301,7 @@
     </h2>
 
   <ul>
-    <li>Arch Linux (literally used for everything)<br></li><li><a href="https://firefox.com" target="_blank">Firefox web browser</a></li><li>Publii (used to make this website)</li><li><a href="https://suckless.org/" target="_blank">Suckless Toolkit</a> - recommended software that heavily follows KISS principles<br></li>
+    <li><a href="http://archlinux.org/" target="_blank">Arch Linux</a> (literally used for everything)<br></li><li><a href="https://firefox.com" target="_blank">Firefox web browser</a></li><li><a href="https://getpublii.com/" target="_blank">Publii</a> (used to make this website)</li><li><a href="https://suckless.org/" target="_blank">Suckless Toolkit</a> - recommended software that heavily follows KISS principles<br></li>
   </ul>
 
     <h2 id="maker-software">
@@ -309,7 +309,7 @@
     </h2>
 
   <ul>
-    <li>OpenSCAD - parametric modelling</li><li>Cura - 3D print preparation &amp; slicing</li><li>Blender - modelling</li>
+    <li><a href="https://openscad.org/" target="_blank">OpenSCAD</a> - parametric modelling</li><li><a href="https://ultimaker.com/software/ultimaker-cura/" target="_blank">Cura</a> - 3D print preparation &amp; slicing</li><li><a href="https://blender.org" target="_blank">Blender</a> - modelling</li>
   </ul>
             ]]>
         </content>

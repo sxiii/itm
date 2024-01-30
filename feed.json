@@ -43,7 +43,7 @@
             "url": "https://itmeet.top/partners/",
             "title": "Partners",
             "summary": "Main venue partner: Rebel We are always open for high-quality partnerships! If you'd like to give a speech, please read our \"Topics\" as well as&hellip;",
-            "content_html": "\n  <p>\n    Main venue partner: <a href=\"https://rebel.no\" target=\"_blank\">Rebel</a>\n  </p>\n\n  <p>\n    We are always open for high-quality partnerships!\n  </p>\n\n  <p>\n    If you'd like to give a speech, please read our <a href=\"https://itmeet.top/topics/\"><mark>\"Topics\"</mark></a> as well as <a href=\"https://itmeet.top/quality-control/\">\"Quality\"</a> sections.\n  </p>\n\n  <p>\n    If you'd like to join on of our events, please check the home page or <a href=\"https://itmeet.top/events/\">\"Events\"</a> section.\n  </p>\n\n  <p>\n    You can contact us via the <a href=\"https://itmeet.top/about-us/\">\"About us\"</a> page.\n  </p>",
+            "content_html": "\n  <p>\n    Main venue partner: <a href=\"https://rebel.no\" target=\"_blank\">Rebel</a>\n  </p>\n\n  <p>\n    We are always open for high-quality partnerships!\n  </p>\n\n  <p>\n    If you'd like to give a speech, please read our <a href=\"https://itmeet.top/topics/\"><mark>\"Topics\"</mark></a> as well as <a href=\"https://itmeet.top/quality/\">\"Quality\"</a> sections.\n  </p>\n\n  <p>\n    If you'd like to join on of our events, please check the home page or <a href=\"https://itmeet.top/events/\">\"Events\"</a> section.\n  </p>\n\n  <p>\n    You can contact us via the <a href=\"https://itmeet.top/about-us/\">\"About us\"</a> page.\n  </p>",
             "author": {
                 "name": "sxiii"
             },
@@ -109,8 +109,8 @@
             "date_modified": "2024-01-30T01:43:58+01:00"
         },
         {
-            "id": "https://itmeet.top/quality-control/",
-            "url": "https://itmeet.top/quality-control/",
+            "id": "https://itmeet.top/quality/",
+            "url": "https://itmeet.top/quality/",
             "title": "Quality control",
             "summary": "We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and&hellip;",
             "content_html": "\n  <p>\n    We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and products means that we care about people. And we want to care about you all!\n  </p>\n\n  <p>\n    We can't say we care about people without proving the point. And our proof point is that all of our work, papers, releases, documents, are always free to use for any purposes.\n  </p>\n\n  <p>\n    If you have a feedback about event or a project that ITM were involved in, please provide it via the <a href=\"https://itmeet.top/feedback/\">\"Feedback\"</a> page.\n  </p>\n\n  <p>\n    At ITM, we strongly believe that the future of humanity could be only saved if we use scientific and open-source approach to the world around us.\n  </p>\n\n  <p>\n    So, the following points are important:\n  </p>\n\n  <ul>\n    <li>We share everything and encourage you to copy what you think is important. You're free to use all of our materials for any purposes. If you would like to hear the name of the license for our website and materials, you can refer to them as \"Kopimi\", \"Copyleft\", \"WTFPL\", \"The Unlicense\", or just \"CC0/public domain\".&nbsp; Note: presentations or tools might have a separate licenses, please be aware of it.</li><li>We use open-source software and hardware ourselves and would like you to use the same. This way we can support community movements and grow them together. You can review a list of tools we use and recommend on the according <a href=\"https://itmeet.top/tools/\">\"Tools\"</a> page.</li><li>We encourage you to communicate between each other and with us, too. Sharing is caring, so please do share more educational and technical materials. We're also welcoming a constructive <a href=\"https://itmeet.top/feedback/\">feedback</a>!</li><li>Accessibility and performance are really important both in the short and in the long run.</li><li>This website is <strong>statically generated</strong> and <strong>does not include any tracking</strong> information whatsoever. If we're going to use any sort of tracking in the future, we guarantee it to be completely anonymous and local, so no data will leave our servers.</li>\n  </ul>",
@@ -120,7 +120,7 @@
             "tags": [
             ],
             "date_published": "2024-01-25T06:57:33+01:00",
-            "date_modified": "2024-01-30T01:48:11+01:00"
+            "date_modified": "2024-01-30T02:37:43+01:00"
         },
         {
             "id": "https://itmeet.top/papers/",

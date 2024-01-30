@@ -1,0 +1,154 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ITMeet.top",
+    "description": "",
+    "home_page_url": "https://itmeet.top",
+    "feed_url": "https://itmeet.top/feed.json",
+    "user_comment": "",
+    "icon": "https://itmeet.top/media/website/_a7045250-e4d0-4fcd-9b3a-725a3201137a.jpeg",
+    "author": {
+        "name": "sxiii"
+    },
+    "items": [
+        {
+            "id": "https://itmeet.top/help/",
+            "url": "https://itmeet.top/help/",
+            "title": "Help &amp; Donate",
+            "summary": "If you liked what we're doing and would like to support our work, you can donate in three ways: 1. Volunteer remote work - with&hellip;",
+            "content_html": "\n  <p>\n    If you liked what we're doing and would like to support our work, you can donate in three ways:\n  </p>\n\n  <p>\n    1. Volunteer remote work - with the content, website, social networks etc.<br>2. Volunteer offline work - on the spot help with event organising (example: multimedia engineers, hands-on help, etc.).<br>3. Donate directly (crypto or fiat) to our community.<br>\n  </p>\n\n  <p>\n    We are setting up the non-commercial entity now that will accept donations.\n  </p>\n\n  <p>\n    Meanwhile, you can donate directly to organiser:\n  </p>\n\n  <p>\n    <b>Den Ivanov </b>(<a href=\"https://www.linkedin.com/in/sxiii\" target=\"_blank\">Linkedin</a>,&nbsp;<a href=\"https://fb.me/sxiii\" target=\"_blank\">Facebook</a>, <a href=\"https://t.me/fakesnowden\">Telegram</a>)\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T14:51:52+01:00",
+            "date_modified": "2024-01-30T01:14:39+01:00"
+        },
+        {
+            "id": "https://itmeet.top/feedback/",
+            "url": "https://itmeet.top/feedback/",
+            "title": "Feedback",
+            "summary": "We are always striving to improve the quality of our events and would like to hear your feedback. What we could improve? Change? Embrace? Tell&hellip;",
+            "content_html": "\n  <p>\n    We are always striving to improve the quality of our events and would like to hear your feedback.\n  </p>\n\n  <p>\n    What we could improve? Change? Embrace? Tell us!\n  </p>\n\n  <p>\n    We're working on making a completely free (from tracking etc) feedback form for you to fill.\n  </p>\n\n  <p>\n    Right now, please share your feedback via feedback@itmeet.top.\n  </p>\n\n  <p>\n    If you liked our event, you can also support us by:<br>\n  </p>\n\n  <ul>\n    <li>doing an awesome speech on important <a href=\"https://itmeet.top/topics/\">topic</a>,&nbsp;</li><li>inviting a guest <a href=\"https://itmeet.top/papers/\">speaker</a>,<br></li><li>becoming a&nbsp;<a href=\"https://itmeet.top/partners/\">partner</a>,</li><li>taking a bunch of friends on the next ITM event,&nbsp;</li><li>joining us and sharing your feedback on the social networks,&nbsp;</li><li>helping as <a href=\"https://itmeet.top/help/\">volunteer or donating</a>.<br></li>\n  </ul>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T14:48:24+01:00",
+            "date_modified": "2024-01-30T01:15:35+01:00"
+        },
+        {
+            "id": "https://itmeet.top/partners/",
+            "url": "https://itmeet.top/partners/",
+            "title": "Partners",
+            "summary": "Main venue partner: Rebel We are always open for high-quality partnerships! If you'd like to give a speech, please read our \"Topics\" as well as&hellip;",
+            "content_html": "\n  <p>\n    Main venue partner: <a href=\"https://rebel.no\" target=\"_blank\">Rebel</a>\n  </p>\n\n  <p>\n    We are always open for high-quality partnerships!\n  </p>\n\n  <p>\n    If you'd like to give a speech, please read our <a href=\"https://itmeet.top/topics/\"><mark>\"Topics\"</mark></a> as well as <a href=\"https://itmeet.top/quality-control/\">\"Quality\"</a> sections.\n  </p>\n\n  <p>\n    If you'd like to join on of our events, please check the home page or <a href=\"https://itmeet.top/events/\">\"Events\"</a> section.\n  </p>\n\n  <p>\n    You can contact us via the <a href=\"https://itmeet.top/about-us/\">\"About us\"</a> page.\n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T14:34:36+01:00",
+            "date_modified": "2024-01-30T01:15:55+01:00"
+        },
+        {
+            "id": "https://itmeet.top/topics/",
+            "url": "https://itmeet.top/topics/",
+            "title": "Topics",
+            "summary": "There are a wide list of topics that we're ready to discuss and cover on our events. Topic focuses (list can and will be extended,&hellip;",
+            "content_html": "\n  <p>\n    There are a wide list of topics that we're ready to discuss and cover on our events.\n  </p>\n\n  <p>\n    Topic focuses (list can and will be extended, so please <a href=\"https://itmeet.top/about-us/\">contact us</a> if you have a different talk anyway):<br>\n  </p>\n\n  <ul>\n    <li>Crypto, Blockchain, FinTech &amp; DAO</li><li>Startups, Pitches, Kickstarting, Crowdfunding, Ideas</li><li>Business Improvement, Success Stories, Challenges, Management Efficiency, etc.</li><li>Open-source Software, Linux &amp; Unix, Development stacks, Programming languages</li><li>Open-source Hardware, Development, Use-cases<br></li><li>AI, NN, Language Models</li><li>Computer Game Design, Board Game Development<br></li><li>Cities of the future, futurology<br></li><li>Energy Sector</li><li>Communications</li><li>Consulting &amp; Advising &amp; Legal</li><li>Design, Architecture</li><li>Press, Journalism</li><li>Agriculture</li><li>Medical tech</li><li>Biology and bio-engineering, implants, sextech</li><li>Education &amp; Meetups</li><li>Content production - movies, videos, audio, singing (making, editing)</li>\n  </ul>\n\n  <p>\n    Our events might be interesting for you, if you're one of these guys:\n  </p>\n\n  <ul>\n    <li>Software &amp; hardware electronics enthusiast</li><li>Geek &amp; nerd in one of the above mentioned fields</li><li>Prefer to open-source everything</li><li>Interested in AI &amp; Robotics</li><li>Making own business or interested in becoming an entrepreneur</li><li>Looking into the future<br></li>\n  </ul>\n\n  <p>\n    Past presentations on the following topics can be found in the <a href=\"https://itmeet.top/presentations/\">\"Presentations\"</a> section.\n  </p>\n\n  <p>\n    If you would like to send a paper, talk, or a presentation, please do so on the according page <a href=\"https://itmeet.top/papers/\" target=\"_blank\" class=\"\" data-link-popup-id=\"eb60cdad-22b7-4b29-a226-b85643f396ab\">\"Papers\"</a>.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T14:26:37+01:00",
+            "date_modified": "2024-01-30T01:16:26+01:00"
+        },
+        {
+            "id": "https://itmeet.top/itm-2/",
+            "url": "https://itmeet.top/itm-2/",
+            "title": "International Tech Meetups",
+            "summary": "First ITM event is going to happen 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo View or plot a route:&nbsp;OpenStreetMap,&nbsp;Google map, Mapiliary, Other maps)&hellip;",
+            "content_html": "\n  <p>\n    <br>First ITM event is going to happen 17 February 2024.\n  </p>\n\n  <p>\n    <b>Location</b>: Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>View or plot a route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website</b>: rebel.no<br><br>International Tech Meetups is consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T07:19:27+01:00",
+            "date_modified": "2024-01-30T01:39:11+01:00"
+        },
+        {
+            "id": "https://itmeet.top/about-us/",
+            "url": "https://itmeet.top/about-us/",
+            "title": "About us",
+            "summary": "We are International Tech Meetups - combination of decentralised and Oslo-based community. We do Tech Events, Streams. We support the best communities and invite the&hellip;",
+            "content_html": "\n  <p>\n    We are <b>International Tech Meetups</b> - combination of decentralised and Oslo-based community.\n  </p>\n\n  <p>\n    We do Tech Events, Streams. We support the best communities and invite the best speakers. And, most importantly, we try to <b>do things right</b>.\n  </p>\n\n  <p>\n    Feel free to reach out us at post@itmeet.top.\n  </p>\n\n  <p>\n    Former community name: META*.\n  </p>\n\n  <p>\n    Non-commercial association registration is in process.\n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T07:13:26+01:00",
+            "date_modified": "2024-01-30T01:53:53+01:00"
+        },
+        {
+            "id": "https://itmeet.top/tools/",
+            "url": "https://itmeet.top/tools/",
+            "title": "Tools",
+            "summary": "Our favourites List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations&hellip;",
+            "content_html": "\n    <h2 id=\"our-favourites\">\n      Our favourites\n    </h2>\n\n  <p>\n    List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations (software, hardware, and beyond).\n  </p>\n\n  <p>\n    Feel free to <a href=\"https://itmeet.top/feedback/\">send suggestions&nbsp;and feedback</a>, <a href=\"https://itmeet.top/papers/\">do a speech</a> about the according software or hardware product, or just browse around and gain knowledge.\n  </p>\n\n  <p>\n    <b>Full transparency and neutrality note:</b> all the tools in this section are our personal recommendations. None of this section or any other sections of this website is sponsored by anyone.&nbsp;&nbsp;\n  </p>\n\n    <h2 id=\"hardware\">\n      Hardware\n    </h2>\n\n  <ul>\n    <li>Framework Laptops</li><li>MNT Reform - Dev ARM Laptop</li><li>Raspberry Pi, Orange Pi (prototyping)</li><li>Steam Deck (mobility, gaming)</li>\n  </ul>\n\n    <h2 id=\"software\">\n      Software\n    </h2>\n\n  <ul>\n    <li>Arch Linux (literally used for everything)<br></li><li><a href=\"https://firefox.com\" target=\"_blank\">Firefox web browser</a></li><li>Publii (used to make this website)</li><li><a href=\"https://suckless.org/\" target=\"_blank\">Suckless Toolkit</a> - recommended software that heavily follows KISS principles<br></li>\n  </ul>\n\n    <h2 id=\"maker-software\">\n      Maker software\n    </h2>\n\n  <ul>\n    <li>OpenSCAD - parametric modelling</li><li>Cura - 3D print preparation &amp; slicing</li><li>Blender - modelling</li>\n  </ul>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T06:58:57+01:00",
+            "date_modified": "2024-01-30T01:43:58+01:00"
+        },
+        {
+            "id": "https://itmeet.top/quality-control/",
+            "url": "https://itmeet.top/quality-control/",
+            "title": "Quality control",
+            "summary": "We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and&hellip;",
+            "content_html": "\n  <p>\n    We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and products means that we care about people. And we want to care about you all!\n  </p>\n\n  <p>\n    We can't say we care about people without proving the point. And our proof point is that all of our work, papers, releases, documents, are always free to use for any purposes.\n  </p>\n\n  <p>\n    If you have a feedback about event or a project that ITM were involved in, please provide it via the <a href=\"https://itmeet.top/feedback/\">\"Feedback\"</a> page.\n  </p>\n\n  <p>\n    At ITM, we strongly believe that the future of humanity could be only saved if we use scientific and open-source approach to the world around us.\n  </p>\n\n  <p>\n    So, the following points are important:\n  </p>\n\n  <ul>\n    <li>We share everything and encourage you to copy what you think is important. You're free to use all of our materials for any purposes. If you would like to hear the name of the license for our website and materials, you can refer to them as \"Kopimi\", \"Copyleft\", \"WTFPL\", \"The Unlicense\", or just \"CC0/public domain\".&nbsp; Note: presentations or tools might have a separate licenses, please be aware of it.</li><li>We use open-source software and hardware ourselves and would like you to use the same. This way we can support community movements and grow them together. You can review a list of tools we use and recommend on the according <a href=\"https://itmeet.top/tools/\">\"Tools\"</a> page.</li><li>We encourage you to communicate between each other and with us, too. Sharing is caring, so please do share more educational and technical materials. We're also welcoming a constructive <a href=\"https://itmeet.top/feedback/\">feedback</a>!</li><li>Accessibility and performance are really important both in the short and in the long run.</li><li>This website is <strong>statically generated</strong> and <strong>does not include any tracking</strong> information whatsoever. If we're going to use any sort of tracking in the future, we guarantee it to be completely anonymous and local, so no data will leave our servers.</li>\n  </ul>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T06:57:33+01:00",
+            "date_modified": "2024-01-30T01:48:11+01:00"
+        },
+        {
+            "id": "https://itmeet.top/papers/",
+            "url": "https://itmeet.top/papers/",
+            "title": "Call for papers",
+            "summary": "Read more about format of our event and topics covered at the Topics page. If you would like to speak or to be added to&hellip;",
+            "content_html": "\n  <p>\n    Read more about format of our event and topics covered at the Topics page.\n  </p>\n\n  <p>\n    If you would like to speak or to be added to ITM Knowledge Base, please submit your presentations to papers@itmeet.top with according information (Date, Topic, Links, Documents, Handouts, Requirements, etc).\n  </p>\n\n  <p>\n    Each presentation and information paper should be submitted at least 3 days before the event.\n  </p>\n\n  <p>\n    Knowledge Base / partners / other documents can be submitted at any time.\n  </p>\n\n  <p>\n    We'll do our best to read all the papers and give feedback ASAP after receiving them.\n  </p>\n\n  <p>\n    Thanks for your collaboration and looking forward to see you on the event both offline and online!\n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T06:40:35+01:00",
+            "date_modified": "2024-01-25T14:26:54+01:00"
+        },
+        {
+            "id": "https://itmeet.top/events/",
+            "url": "https://itmeet.top/events/",
+            "title": "Events",
+            "summary": "1. First ITM event is happening on 17 February 2024.",
+            "content_html": "\n  <p>\n    1. First ITM event is happening on 17 February 2024.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-25T06:40:15+01:00",
+            "date_modified": "2024-01-30T01:48:31+01:00"
+        }
+    ]
+}

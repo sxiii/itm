@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-01-30T19:40:18+01:00</updated>
+    <updated>2024-01-30T19:56:57+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -365,21 +365,25 @@
         <link href="https://itmeet.top/papers/"/>
         <id>https://itmeet.top/papers/</id>
 
-        <updated>2024-01-30T10:05:18+01:00</updated>
+        <updated>2024-01-30T19:56:57+01:00</updated>
             <summary>
                 <![CDATA[
-                    Read more about format of our event and topics covered at the Topics page. If you would like to speak or to be added to&hellip;
+                    Read more about format of our event and topics covered at the "Topics" page. If you would like to speak or to be added to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Read more about format of our event and topics covered at the Topics page.
+    Read more about format of our event and topics covered at the "<a href="https://itmeet.top/topics/">Topics</a>" page.
   </p>
 
   <p>
     If you would like to speak or to be added to ITM Knowledge Base, please submit your presentations to papers@itmeet.top with according information (Date, Topic, Links, Documents, Handouts, Requirements, etc).
+  </p>
+
+  <p>
+    Please make sure your presentation is following most of the basic rules on the "<a href="https://itmeet.top/presentations/">Presentations</a>" page.&nbsp;
   </p>
 
   <p>

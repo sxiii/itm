@@ -10,7 +10,7 @@
 </url>
 <url>
 <loc>https://itmeet.top/events/</loc>
-<lastmod>2024-01-30T01:48:31+01:00</lastmod>
+<lastmod>2024-01-31T16:57:21+01:00</lastmod>
 </url>
 <url>
 <loc>https://itmeet.top/feedback/</loc>
@@ -18,11 +18,19 @@
 </url>
 <url>
 <loc>https://itmeet.top/help/</loc>
-<lastmod>2024-01-30T20:02:03+01:00</lastmod>
+<lastmod>2024-01-31T16:51:50+01:00</lastmod>
 </url>
 <url>
 <loc>https://itmeet.top/itm-2/</loc>
-<lastmod>2024-01-30T20:01:51+01:00</lastmod>
+<lastmod>2024-02-09T14:28:33+01:00</lastmod>
+<image:image>
+<image:loc>https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-General-2.png</image:loc>
+<image:title><![CDATA[Welcome to our first International Tech Meetup issue, 17 February 2024.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024_Malgo_Release-2.png</image:loc>
+<image:title><![CDATA[Please welcome our speaker for the first ITM event: Małgorzata Janeczek with exciting topic "Screw perfect, aim for good enough". Requirements, processes, standards, crazy architecture, over-engineered infrastructure - this amongst other things can cause the feeling of being overwhelmed during your day-to-day work. What can you do? How to stop the endless circle? Together, we’ll dive into the Just in Time architecture, keeping things simple (… keeping them safe), and much more! ]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://itmeet.top/news/</loc>

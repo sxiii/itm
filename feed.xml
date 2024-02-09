@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-01-31T16:05:45+01:00</updated>
+    <updated>2024-02-09T14:28:33+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://itmeet.top/help/"/>
         <id>https://itmeet.top/help/</id>
 
-        <updated>2024-01-30T20:02:03+01:00</updated>
+        <updated>2024-01-31T16:51:50+01:00</updated>
             <summary>
                 <![CDATA[
                     If you liked what we're doing and would like to support our work, you can donate in three ways: 1. Volunteer remote work - with&hellip;
@@ -193,21 +193,49 @@
         <link href="https://itmeet.top/itm-2/"/>
         <id>https://itmeet.top/itm-2/</id>
 
-        <updated>2024-01-30T20:01:51+01:00</updated>
+        <updated>2024-02-09T14:28:33+01:00</updated>
             <summary>
                 <![CDATA[
-                    First ITM event is going to happen 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo Date: 17 February 2024, 16:00 Map &amp; Route:&nbsp;OpenStreetMap,&nbsp;Google map,&hellip;
+                    Please join on our exciting journey with our first ITM issue, 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo Date &amp; Time: 17 February&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    <br>First ITM event is going to happen 17 February 2024.
+    <br>Please join on our exciting journey with our first ITM issue, 17 February 2024.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-General-2.png" data-size="1920x1080">
+        <img loading="lazy" src="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-General-2-thumbnail.webp" height="432" width="768" alt="Welcome to our first International Tech Meetup issue, 17 February 2024." >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024_Malgo_Release-2.png" data-size="1920x1080">
+        <img loading="lazy" src="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024_Malgo_Release-2-thumbnail.webp" height="432" width="768" alt="Please welcome our speaker for the first ITM event: Małgorzata Janeczek with exciting topic "Screw perfect, aim for good enough". Requirements, processes, standards, crazy architecture, over-engineered infrastructure - this amongst other things can cause the feeling of being overwhelmed during your day-to-day work. What can you do? How to stop the endless circle? Together, we’ll dive into the Just in Time architecture, keeping things simple (… keeping them safe), and much more! " >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b> 17 February 2024, 17:00<br><b>RSVP:</b> <a href="https://www.meetup.com/expats-in-oslo/events/299054991/" target="_blank">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href="https://www.openstreetmap.org/node/9306426022" class="" target="_blank">OpenStreetMap</a>,&nbsp;<a href="https://maps.app.goo.gl/gQij6R3zVzJEmrXw9" target="_blank">Google map</a>, <a href="https://www.mapillary.com/app/?pKey=771391080436318" target="_blank">Mapiliary</a>, <a href="https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E" target="_blank">Other maps</a>)<br><b>Venue website:</b> <a href="https://rebel.no" target="_blank">rebel.no</a><br>
   </p>
 
   <p>
-    <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date:</b> 17 February 2024, 16:00<br><b>Map &amp; Route:</b>&nbsp;<a href="https://www.openstreetmap.org/node/9306426022" class="" target="_blank">OpenStreetMap</a>,&nbsp;<a href="https://maps.app.goo.gl/gQij6R3zVzJEmrXw9" target="_blank">Google map</a>, <a href="https://www.mapillary.com/app/?pKey=771391080436318" target="_blank">Mapiliary</a>, <a href="https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E" target="_blank">Other maps</a>)<br><b>Venue website:</b> <a href="https://rebel.no" target="_blank">rebel.no</a><br><br>International Tech Meetups is consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global
+    There will be up to 4 topics covered. Extra special activities after the main event!
+  </p>
+
+  <ul>
+    <li><b>Den Ivanov</b> — ITM Community announcement. Who we are, what we plan, how to join and help.</li><li><b>Małgorzata Janeczek</b> — Screw perfect, aim for good enough. A brief story of how not to go nuts facing complexity (with a small advice for beginners).</li><li><b>Den Ivanov</b> —&nbsp;We need better marketing for open-source software<br></li><li><b>Secret speaker</b> — Check-out our announces soon.</li>
+  </ul>
+
+  <p>
+    International Tech Meetups consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global
   </p>
 
   <p>
@@ -412,7 +440,7 @@
         <link href="https://itmeet.top/events/"/>
         <id>https://itmeet.top/events/</id>
 
-        <updated>2024-01-30T01:48:31+01:00</updated>
+        <updated>2024-01-31T16:57:21+01:00</updated>
             <summary>
                 <![CDATA[
                     1. First ITM event is happening on 17 February 2024.

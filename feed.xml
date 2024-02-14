@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-02-14T17:46:10+01:00</updated>
+    <updated>2024-02-14T17:50:29+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -205,7 +205,7 @@
         <link href="https://itmeet.top/itm-2/"/>
         <id>https://itmeet.top/itm-2/</id>
 
-        <updated>2024-02-12T14:45:30+01:00</updated>
+        <updated>2024-02-14T17:50:29+01:00</updated>
             <summary>
                 <![CDATA[
                     Please join on our exciting journey with our first ITM issue, 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo Date &amp; Time: 17 February&hellip;
@@ -218,21 +218,10 @@
     <br>Please join on our exciting journey with our first ITM issue, 17 February 2024.
   </p>
 
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-Den-Cut-Transparent.png" data-size="1222x632">
-        <img loading="lazy" src="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-Den-Cut-Transparent-thumbnail.webp" height="397" width="768" alt="Den Ivanov will open the event with talk about ITM Community and where it's heading" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-Gosia-Cut-Transparent.png" data-size="1213x632">
-        <img loading="lazy" src="https://itmeet.top/media/posts/9/gallery/ITM-Feb-2024-Gosia-Cut-Transparent-thumbnail.webp" height="400" width="768" alt="Małgorzata Janeczek with exciting topic "Screw perfect, aim for good enough". Requirements, processes, standards, crazy architecture, over-engineered infrastructure - this amongst other things can cause the feeling of being overwhelmed during your day-to-day work. What can you do? How to stop the endless circle? Together, we’ll dive into the Just in Time architecture, keeping things simple (… keeping them safe), and much more! " >
-      </a>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://itmeet.top/media/posts/9/ITM-Feb-2024-Group.png" height="1080" width="1920" alt=""  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://itmeet.top/media/posts/9/responsive/ITM-Feb-2024-Group-xs.webp 300w ,https://itmeet.top/media/posts/9/responsive/ITM-Feb-2024-Group-sm.webp 480w ,https://itmeet.top/media/posts/9/responsive/ITM-Feb-2024-Group-md.webp 768w ,https://itmeet.top/media/posts/9/responsive/ITM-Feb-2024-Group-lg.webp 1024w">
       
     </figure>
-    </div>
-  </div>
 
   <p>
     <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b> 17 February 2024, 17:00<br><b>RSVP:</b> <a href="https://www.meetup.com/expats-in-oslo/events/299054991/" target="_blank">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href="https://www.openstreetmap.org/node/9306426022" class="" target="_blank">OpenStreetMap</a>,&nbsp;<a href="https://maps.app.goo.gl/gQij6R3zVzJEmrXw9" target="_blank">Google map</a>, <a href="https://www.mapillary.com/app/?pKey=771391080436318" target="_blank">Mapiliary</a>, <a href="https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E" target="_blank">Other maps</a>)<br><b>Venue website:</b> <a href="https://rebel.no" target="_blank">rebel.no</a><br>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://itmeet.top/rsvp/",
+            "url": "https://itmeet.top/rsvp/",
+            "title": "RSVP",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-14T17:46:10+01:00",
+            "date_modified": "2024-02-14T17:46:10+01:00"
+        },
+        {
             "id": "https://itmeet.top/help/",
             "url": "https://itmeet.top/help/",
             "title": "Help &amp; Donate",
@@ -135,20 +147,6 @@
             ],
             "date_published": "2024-01-25T06:40:35+01:00",
             "date_modified": "2024-01-30T19:56:57+01:00"
-        },
-        {
-            "id": "https://itmeet.top/events/",
-            "url": "https://itmeet.top/events/",
-            "title": "Events",
-            "summary": "1. First ITM event is happening on 17 February 2024.",
-            "content_html": "\n  <p>\n    1. First ITM event is happening on 17 February 2024.\n  </p>\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T06:40:15+01:00",
-            "date_modified": "2024-01-31T16:57:21+01:00"
         }
     ]
 }

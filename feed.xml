@@ -3,12 +3,24 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-02-12T14:45:30+01:00</updated>
+    <updated>2024-02-14T17:46:10+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
     <id>https://itmeet.top</id>
 
+    <entry>
+        <title>RSVP</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://itmeet.top/rsvp/"/>
+        <id>https://itmeet.top/rsvp/</id>
+
+        <updated>2024-02-14T17:46:10+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Help &amp; Donate</title>
         <author>
@@ -428,33 +440,6 @@
 
   <p>
     Thanks for your collaboration and looking forward to see you on the event both offline and online!
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Events</title>
-        <author>
-            <name>sxiii</name>
-        </author>
-        <link href="https://itmeet.top/events/"/>
-        <id>https://itmeet.top/events/</id>
-
-        <updated>2024-01-31T16:57:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                    1. First ITM event is happening on 17 February 2024.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    1. First ITM event is happening on 17 February 2024.
-  </p>
-
-  <p>
-    
   </p>
             ]]>
         </content>

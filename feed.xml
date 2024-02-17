@@ -3,12 +3,32 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-02-14T18:22:18+01:00</updated>
+    <updated>2024-02-17T06:27:44+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
     <id>https://itmeet.top</id>
 
+    <entry>
+        <title>Linkedin</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://itmeet.top/linkedin/"/>
+        <id>https://itmeet.top/linkedin/</id>
+
+        <updated>2024-02-17T06:27:44+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script>
+		window.location.href = "https://www.linkedin.com/groups/8147465/";
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>RSVP</title>
         <author>
@@ -391,53 +411,6 @@
   <ul>
     <li>We share everything and encourage you to copy what you think is important. You're free to use all of our materials for any purposes. If you would like to hear the name of the license for our website and materials, you can refer to them as "Kopimi", "Copyleft", "WTFPL", "The Unlicense", or just "CC0/public domain".&nbsp; Note: presentations or tools might have a separate licenses, please be aware of it.</li><li>We use open-source software and hardware ourselves and would like you to use the same. This way we can support community movements and grow them together. You can review a list of tools we use and recommend on the according <a href="https://itmeet.top/tools/">"Tools"</a> page.</li><li>We encourage you to communicate between each other and with us, too. Sharing is caring, so please do share more educational and technical materials. We're also welcoming a constructive <a href="https://itmeet.top/feedback/">feedback</a>!</li><li>Accessibility and performance are really important both in the short and in the long run.</li><li>This website is <strong>statically generated</strong> and <strong>does not include any tracking</strong> information whatsoever. If we're going to use any sort of tracking in the future, we guarantee it to be completely anonymous and local, so no data will leave our servers.</li>
   </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Call for papers</title>
-        <author>
-            <name>sxiii</name>
-        </author>
-        <link href="https://itmeet.top/papers/"/>
-        <id>https://itmeet.top/papers/</id>
-
-        <updated>2024-01-30T19:56:57+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Read more about format of our event and topics covered at the "Topics" page. If you would like to speak or to be added to&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Read more about format of our event and topics covered at the "<a href="https://itmeet.top/topics/">Topics</a>" page.
-  </p>
-
-  <p>
-    If you would like to speak or to be added to ITM Knowledge Base, please submit your presentations to papers@itmeet.top with according information (Date, Topic, Links, Documents, Handouts, Requirements, etc).
-  </p>
-
-  <p>
-    Please make sure your presentation is following most of the basic rules on the "<a href="https://itmeet.top/presentations/">Presentations</a>" page.&nbsp;
-  </p>
-
-  <p>
-    Each presentation and information paper should be submitted at least 3 days before the event.
-  </p>
-
-  <p>
-    Knowledge Base / partners / other documents can be submitted at any time.
-  </p>
-
-  <p>
-    We'll do our best to read all the papers and give feedback ASAP after receiving them.
-  </p>
-
-  <p>
-    Thanks for your collaboration and looking forward to see you on the event both offline and online!
-  </p>
             ]]>
         </content>
     </entry>

@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://itmeet.top/linkedin/",
+            "url": "https://itmeet.top/linkedin/",
+            "title": "Linkedin",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://www.linkedin.com/groups/8147465/\";\n\t</script>\n</p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-17T06:27:35+01:00",
+            "date_modified": "2024-02-17T06:27:44+01:00"
+        },
+        {
             "id": "https://itmeet.top/rsvp/",
             "url": "https://itmeet.top/rsvp/",
             "title": "RSVP",
@@ -134,20 +147,6 @@
             ],
             "date_published": "2024-01-25T06:57:33+01:00",
             "date_modified": "2024-01-30T02:38:33+01:00"
-        },
-        {
-            "id": "https://itmeet.top/papers/",
-            "url": "https://itmeet.top/papers/",
-            "title": "Call for papers",
-            "summary": "Read more about format of our event and topics covered at the \"Topics\" page. If you would like to speak or to be added to&hellip;",
-            "content_html": "\n  <p>\n    Read more about format of our event and topics covered at the \"<a href=\"https://itmeet.top/topics/\">Topics</a>\" page.\n  </p>\n\n  <p>\n    If you would like to speak or to be added to ITM Knowledge Base, please submit your presentations to papers@itmeet.top with according information (Date, Topic, Links, Documents, Handouts, Requirements, etc).\n  </p>\n\n  <p>\n    Please make sure your presentation is following most of the basic rules on the \"<a href=\"https://itmeet.top/presentations/\">Presentations</a>\" page.&nbsp;\n  </p>\n\n  <p>\n    Each presentation and information paper should be submitted at least 3 days before the event.\n  </p>\n\n  <p>\n    Knowledge Base / partners / other documents can be submitted at any time.\n  </p>\n\n  <p>\n    We'll do our best to read all the papers and give feedback ASAP after receiving them.\n  </p>\n\n  <p>\n    Thanks for your collaboration and looking forward to see you on the event both offline and online!\n  </p>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T06:40:35+01:00",
-            "date_modified": "2024-01-30T19:56:57+01:00"
         }
     ]
 }

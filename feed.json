@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://itmeet.top/live/",
+            "url": "https://itmeet.top/live/",
+            "title": "Live Stream",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://youtube.com/live/HfBe6B5W3rU\";\n\t</script>\n</p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-17T13:33:48+01:00",
+            "date_modified": "2024-02-17T13:35:13+01:00"
+        },
+        {
             "id": "https://itmeet.top/linkedin/",
             "url": "https://itmeet.top/linkedin/",
             "title": "Linkedin",
@@ -21,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2024-02-17T06:27:35+01:00",
-            "date_modified": "2024-02-17T06:27:44+01:00"
+            "date_modified": "2024-02-17T13:33:55+01:00"
         },
         {
             "id": "https://itmeet.top/rsvp/",
@@ -96,15 +109,15 @@
             "id": "https://itmeet.top/itm-2/",
             "url": "https://itmeet.top/itm-2/",
             "title": "International Tech Meetups",
-            "summary": "Please join on our exciting journey with our first ITM issue, 17 February 2024. Location: Rebel Address: Universitetsgata 2, Oslo Date &amp; Time: 17 February&hellip;",
-            "content_html": "\n  <p>\n    <br>Please join on our exciting journey with our first ITM issue, 17 February 2024.\n  </p>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://itmeet.top/media/posts/9/ITM-Feb-2024-Group-Small.webp\" height=\"555\" width=\"1920\" alt=\"ITM First Issue\" />\n      <figcaption>ITM First Issue</figcaption>\n    </figure>\n\n  <p>\n    <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b> 17 February 2024, 17:00<br><b>RSVP:</b> <a href=\"https://www.meetup.com/expats-in-oslo/events/299054991/\" target=\"_blank\">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\" class=\"\" target=\"_blank\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website:</b> <a href=\"https://rebel.no\" target=\"_blank\">rebel.no</a><br>\n  </p>\n\n  <p>\n    There will be up to 4 topics covered. Extra special activities after the main event!\n  </p>\n\n  <ul>\n    <li><b>Den Ivanov</b> — ITM Community announcement. Who we are, what we plan, how to join and help.</li><li><b>Małgorzata Janeczek</b> — Screw perfect, aim for good enough. A brief story of how not to go nuts facing complexity (with a small advice for beginners).</li><li><b>Den Ivanov</b> —&nbsp;We need better marketing for open-source software<br></li><li><b>Secret speaker</b> — Check-out our announces soon.</li>\n  </ul>\n\n  <p>\n    International Tech Meetups consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
+            "summary": "Please join on our exciting journey with our first ITM issue, 17 February 2024. Live stream: link (or type itmeet.top/live) Location: Rebel Address: Universitetsgata 2,&hellip;",
+            "content_html": "\n  <p>\n    <br>Please join on our exciting journey with our first ITM issue, 17 February 2024.\n  </p>\n\n  <p>\n    <b>Live stream: </b><a href=\"https://itmeet.top/live\" target=\"_blank\">link</a> (or type <a href=\"https://itmeet.top/live\" target=\"_blank\">itmeet.top/live</a>)\n  </p>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://itmeet.top/media/posts/9/ITM-Feb-2024-Group-Small.webp\" height=\"555\" width=\"1920\" alt=\"ITM First Issue\" />\n      <figcaption>ITM First Issue</figcaption>\n    </figure>\n\n  <p>\n    <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b> 17 February 2024, 17:00<br><b>RSVP:</b> <a href=\"https://www.meetup.com/expats-in-oslo/events/299054991/\" target=\"_blank\">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\" class=\"\" target=\"_blank\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website:</b> <a href=\"https://rebel.no\" target=\"_blank\">rebel.no</a><br><b>Live stream: </b><a href=\"https://itmeet.top/live\" target=\"_blank\">link</a> (or type <a href=\"https://itmeet.top/live\" target=\"_blank\">itmeet.top/live</a>)<br>\n  </p>\n\n  <p>\n    There will be up to 4 topics covered. Extra special activities after the main event!\n  </p>\n\n  <ul>\n    <li><b>Den Ivanov</b> — ITM Community announcement. Who we are, what we plan, how to join and help.</li><li><b>Małgorzata Janeczek</b> — Screw perfect, aim for good enough. A brief story of how not to go nuts facing complexity (with a small advice for beginners).</li><li><b>Den Ivanov</b> —&nbsp;We need better marketing for open-source software.<br></li><li><b>Secret speaker</b> — Watch our event to know who it's going to be!</li>\n  </ul>\n\n  <p>\n    International Tech Meetups consist of two parts:<br>* Oslo-based online+offline events<br>* Online events, streams: global\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-01-25T07:19:27+01:00",
-            "date_modified": "2024-02-14T18:22:18+01:00"
+            "date_modified": "2024-02-17T13:38:46+01:00"
         },
         {
             "id": "https://itmeet.top/about-us/",
@@ -133,20 +146,6 @@
             ],
             "date_published": "2024-01-25T06:58:57+01:00",
             "date_modified": "2024-01-30T10:05:32+01:00"
-        },
-        {
-            "id": "https://itmeet.top/quality/",
-            "url": "https://itmeet.top/quality/",
-            "title": "Quality control",
-            "summary": "We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and&hellip;",
-            "content_html": "\n  <p>\n    We strongly believe that following high quality standards is essential to grow and support a great community.&nbsp;For us, developing a high quality events, services and products means that we care about people. And we want to care about you all!\n  </p>\n\n  <p>\n    We can't say we care about people without proving the point. And our proof point is that all of our work, papers, releases, documents, are always free to use for any purposes.\n  </p>\n\n  <p>\n    If you have a feedback about event or a project that ITM were involved in, please provide it via the <a href=\"https://itmeet.top/feedback/\">\"Feedback\"</a> page.\n  </p>\n\n  <p>\n    At ITM, we strongly believe that the future of humanity could be only saved if we use scientific and open-source approach to the world around us.\n  </p>\n\n  <p>\n    So, the following points are important:\n  </p>\n\n  <ul>\n    <li>We share everything and encourage you to copy what you think is important. You're free to use all of our materials for any purposes. If you would like to hear the name of the license for our website and materials, you can refer to them as \"Kopimi\", \"Copyleft\", \"WTFPL\", \"The Unlicense\", or just \"CC0/public domain\".&nbsp; Note: presentations or tools might have a separate licenses, please be aware of it.</li><li>We use open-source software and hardware ourselves and would like you to use the same. This way we can support community movements and grow them together. You can review a list of tools we use and recommend on the according <a href=\"https://itmeet.top/tools/\">\"Tools\"</a> page.</li><li>We encourage you to communicate between each other and with us, too. Sharing is caring, so please do share more educational and technical materials. We're also welcoming a constructive <a href=\"https://itmeet.top/feedback/\">feedback</a>!</li><li>Accessibility and performance are really important both in the short and in the long run.</li><li>This website is <strong>statically generated</strong> and <strong>does not include any tracking</strong> information whatsoever. If we're going to use any sort of tracking in the future, we guarantee it to be completely anonymous and local, so no data will leave our servers.</li>\n  </ul>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T06:57:33+01:00",
-            "date_modified": "2024-01-30T02:38:33+01:00"
         }
     ]
 }

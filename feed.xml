@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-02-19T17:47:51+01:00</updated>
+    <updated>2024-02-19T17:57:34+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://itmeet.top/live/"/>
         <id>https://itmeet.top/live/</id>
 
-        <updated>2024-02-17T13:39:41+01:00</updated>
-            <summary></summary>
+        <updated>2024-02-19T17:57:34+01:00</updated>
+            <summary>
+                <![CDATA[
+                    No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event here.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <p>
-<script>
-		window.location.href = "https://youtube.com/live/HfBe6B5W3rU";
-	</script>
-</p>
+                <p>No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event <a href="https://www.meetup.com/expats-in-oslo/events/299294628">here.</a></p>
             ]]>
         </content>
     </entry>
@@ -57,13 +57,13 @@
         <link href="https://itmeet.top/rsvp/"/>
         <id>https://itmeet.top/rsvp/</id>
 
-        <updated>2024-02-14T17:57:39+01:00</updated>
+        <updated>2024-02-19T17:56:38+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p>
 <script>
-		window.location.href = "https://www.meetup.com/expats-in-oslo/events/299054991/";
+		window.location.href = "https://www.meetup.com/expats-in-oslo/events/299294628";
 	</script>
 </p>
             ]]>

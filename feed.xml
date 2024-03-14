@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-02-19T17:57:34+01:00</updated>
+    <updated>2024-03-15T00:56:49+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://itmeet.top/live/"/>
         <id>https://itmeet.top/live/</id>
 
-        <updated>2024-02-19T17:57:34+01:00</updated>
+        <updated>2024-02-17T13:33:48+01:00</updated>
             <summary>
                 <![CDATA[
                     No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event here.
@@ -37,7 +37,7 @@
         <link href="https://itmeet.top/linkedin/"/>
         <id>https://itmeet.top/linkedin/</id>
 
-        <updated>2024-02-17T13:33:55+01:00</updated>
+        <updated>2024-02-17T06:27:35+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -57,7 +57,7 @@
         <link href="https://itmeet.top/rsvp/"/>
         <id>https://itmeet.top/rsvp/</id>
 
-        <updated>2024-02-19T17:56:38+01:00</updated>
+        <updated>2024-02-14T17:46:10+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -77,7 +77,7 @@
         <link href="https://itmeet.top/help/"/>
         <id>https://itmeet.top/help/</id>
 
-        <updated>2024-01-31T16:51:50+01:00</updated>
+        <updated>2024-01-25T14:51:52+01:00</updated>
             <summary>
                 <![CDATA[
                     If you liked what we're doing and would like to support our work, you can donate in three ways: 1. Volunteer remote work - with&hellip;
@@ -120,7 +120,7 @@
         <link href="https://itmeet.top/feedback/"/>
         <id>https://itmeet.top/feedback/</id>
 
-        <updated>2024-01-30T10:08:25+01:00</updated>
+        <updated>2024-01-25T14:48:24+01:00</updated>
             <summary>
                 <![CDATA[
                     We are always striving to improve the quality of our events and would like to hear your feedback. What we could improve? Change? Embrace? Tell&hellip;
@@ -163,7 +163,7 @@
         <link href="https://itmeet.top/partners/"/>
         <id>https://itmeet.top/partners/</id>
 
-        <updated>2024-01-31T16:05:45+01:00</updated>
+        <updated>2024-01-25T14:34:36+01:00</updated>
             <summary>
                 <![CDATA[
                     Main venue partner: Rebel Media partner: Web3 Fjord Information partner: Daily Scandinavian We are always open for high-quality partnerships! If you'd like to give a&hellip;
@@ -202,7 +202,7 @@
         <link href="https://itmeet.top/topics/"/>
         <id>https://itmeet.top/topics/</id>
 
-        <updated>2024-01-30T19:40:18+01:00</updated>
+        <updated>2024-01-25T14:26:37+01:00</updated>
             <summary>
                 <![CDATA[
                     There are a wide list of topics that we're ready to discuss and cover on our events. Topic focuses (list can and will be extended,&hellip;
@@ -253,25 +253,38 @@
         <link href="https://itmeet.top/itm-2/"/>
         <id>https://itmeet.top/itm-2/</id>
 
-        <updated>2024-02-19T17:47:51+01:00</updated>
+        <updated>2024-01-25T07:19:27+01:00</updated>
             <summary>
                 <![CDATA[
-                    Please join on our exciting journey with our second ITM issue, 15 March 2024. Location: Rebel Address: Universitetsgata 2, Oslo Date &amp; Time:&nbsp;15 March 2024,&hellip;
+                    Please join on our exciting journey with our second ITM issue, 15 March 2024. Online stream link - click here (or type itmeet.top/live) Topics for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    <br>Please join on our exciting journey with our second ITM issue, 15 March 2024.
+    <br>Please join on our exciting journey with our second ITM issue, <b>15 March 2024</b>.
   </p>
+
+  <p>
+    <a href="https://itmeet.top/live/" target="_blank">Online stream link - click here (or type itmeet.top/live)</a>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://itmeet.top/media/posts/9/ITM-March-2024-Group.png" height="1080" width="1920" alt="" />
+      
+    </figure>
+
+  <p>
+    Topics for ITM issue #2:
+  </p>
+
+  <ul>
+    <li><b>Den I.&nbsp;</b>— <i>Welcome words<b style=""> </b>and ITM community recap</i></li><li><b>Vasily K.</b> — <i>Gateway.fm, BizDev - "The Future of Blockchain: Zero-Knowledge Proofs &amp; Private Blockchains."</i></li><li><b>Teddy S.</b> — <i>Sooo Sustainability Magazine, Co-Founder - "Closing the gender gap in tech for a more sustainable future."</i></li><li><b>Den I.</b> - <i>ITM &amp; Expats Communities Co-Founder - "Applicable open-source software and secure crypto. Linux and crypto in your everyday life."</i></li><li>Extremely friendly networking session as usual in Skråplanet bar.</li>
+  </ul>
 
   <p>
     <b>Location:</b> Rebel<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b>&nbsp;15 March 2024, 17:00<br><b>RSVP:</b> <a href="https://www.meetup.com/ru-RU/expats-in-oslo/events/299294628" target="_blank" class="">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href="https://www.openstreetmap.org/node/9306426022" class="" target="_blank">OpenStreetMap</a>,&nbsp;<a href="https://maps.app.goo.gl/gQij6R3zVzJEmrXw9" target="_blank">Google map</a>, <a href="https://www.mapillary.com/app/?pKey=771391080436318" target="_blank">Mapiliary</a>, <a href="https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E" target="_blank">Other maps</a>)<br><b>Venue website:</b> <a href="https://rebel.no" target="_blank">rebel.no</a><br><b>Live stream: </b><a href="https://itmeet.top/live" target="_blank">link</a> (or type <a href="https://itmeet.top/live" target="_blank">itmeet.top/live</a>)<br>
-  </p>
-
-  <p>
-    We are preparing the list of the upcoming speakers, but you can be certain that it's going to diverse topics!
   </p>
 
   <p>
@@ -292,7 +305,7 @@
         <link href="https://itmeet.top/about-us/"/>
         <id>https://itmeet.top/about-us/</id>
 
-        <updated>2024-01-30T01:53:53+01:00</updated>
+        <updated>2024-01-25T07:13:26+01:00</updated>
             <summary>
                 <![CDATA[
                     We are International Tech Meetups - combination of decentralised and Oslo-based community. We do Tech Events, Streams. We support the best communities and invite the&hellip;
@@ -331,7 +344,7 @@
         <link href="https://itmeet.top/tools/"/>
         <id>https://itmeet.top/tools/</id>
 
-        <updated>2024-01-30T10:05:32+01:00</updated>
+        <updated>2024-01-25T06:58:57+01:00</updated>
             <summary>
                 <![CDATA[
                     Our favourites List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations&hellip;

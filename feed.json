@@ -14,15 +14,15 @@
             "id": "https://itmeet.top/live/",
             "url": "https://itmeet.top/live/",
             "title": "Live Stream",
-            "summary": "No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event here.",
-            "content_html": "<p>No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event <a href=\"https://www.meetup.com/expats-in-oslo/events/299294628\">here.</a></p>",
+            "summary": "Please wait for the redirect to occur.",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://youtube.com/live/BkVAVvvO66k\";\n\t</script>\n</p>\n<p>Please wait for the redirect to occur.</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-17T13:33:48+01:00",
-            "date_modified": "2024-02-19T17:57:34+01:00"
+            "date_modified": "2024-03-15T01:14:07+01:00"
         },
         {
             "id": "https://itmeet.top/linkedin/",
@@ -35,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2024-02-17T06:27:35+01:00",
-            "date_modified": "2024-02-17T13:33:55+01:00"
+            "date_modified": "2024-03-15T01:13:17+01:00"
         },
         {
             "id": "https://itmeet.top/rsvp/",

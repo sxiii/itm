@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-03-15T00:56:49+01:00</updated>
+    <updated>2024-03-15T01:14:07+01:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -20,12 +20,17 @@
         <updated>2024-02-17T13:33:48+01:00</updated>
             <summary>
                 <![CDATA[
-                    No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event here.
+                    Please wait for the redirect to occur.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>No live stream is happening until next issue - 15 March 2024. Please stay tuned and RSVP for the next event <a href="https://www.meetup.com/expats-in-oslo/events/299294628">here.</a></p>
+                <p>
+<script>
+		window.location.href = "https://youtube.com/live/BkVAVvvO66k";
+	</script>
+</p>
+<p>Please wait for the redirect to occur.</p>
             ]]>
         </content>
     </entry>

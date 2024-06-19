@@ -11,6 +11,32 @@
     },
     "items": [
         {
+            "id": "https://itmeet.top/telegram/",
+            "url": "https://itmeet.top/telegram/",
+            "title": "Telegram",
+            "content_html": "<p>\n<script>\n\t\tfwindow.location.href = \"https://t.me/itmeet_top\";\n\t</script>\n</p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T13:54:29+02:00",
+            "date_modified": "2024-06-19T13:55:01+02:00"
+        },
+        {
+            "id": "https://itmeet.top/facebook/",
+            "url": "https://itmeet.top/facebook/",
+            "title": "Facebook",
+            "content_html": "<p>\n<script>fwindow.location.href = \"https://fb.com/groups/itmeet\";\n\t</script>\n</p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T13:52:50+02:00",
+            "date_modified": "2024-06-19T13:54:03+02:00"
+        },
+        {
             "id": "https://itmeet.top/live/",
             "url": "https://itmeet.top/live/",
             "title": "Live Stream",
@@ -35,7 +61,7 @@
             "tags": [
             ],
             "date_published": "2024-02-17T06:27:35+01:00",
-            "date_modified": "2024-03-15T01:13:17+01:00"
+            "date_modified": "2024-06-19T13:54:13+02:00"
         },
         {
             "id": "https://itmeet.top/rsvp/",
@@ -119,34 +145,6 @@
             ],
             "date_published": "2024-01-25T07:19:27+01:00",
             "date_modified": "2024-06-19T13:33:07+02:00"
-        },
-        {
-            "id": "https://itmeet.top/about-us/",
-            "url": "https://itmeet.top/about-us/",
-            "title": "About us",
-            "summary": "We are International Tech Meetups - combination of decentralised and Oslo-based community. We do Tech Events, Streams. We support the best communities and invite the&hellip;",
-            "content_html": "\n  <p>\n    We are <b>International Tech Meetups</b> - combination of decentralised and Oslo-based community.\n  </p>\n\n  <p>\n    We do Tech Events, Streams. We support the best communities and invite the best speakers. And, most importantly, we try to <b>do things right</b>.\n  </p>\n\n  <p>\n    Feel free to reach out us at post@itmeet.top.\n  </p>\n\n  <p>\n    Former community name: META*.\n  </p>\n\n  <p>\n    Non-commercial association registration is in process.\n  </p>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T07:13:26+01:00",
-            "date_modified": "2024-01-30T01:53:53+01:00"
-        },
-        {
-            "id": "https://itmeet.top/tools/",
-            "url": "https://itmeet.top/tools/",
-            "title": "Tools",
-            "summary": "Our favourites List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations&hellip;",
-            "content_html": "\n    <h2 id=\"our-favourites\">\n      Our favourites\n    </h2>\n\n  <p>\n    List of great tools that we use and can recommend. Include flexible, modular, open-source tools that are extremely useful in the according situations (software, hardware, and beyond).\n  </p>\n\n  <p>\n    Feel free to <a href=\"https://itmeet.top/feedback/\">send suggestions&nbsp;and feedback</a>, <a href=\"https://itmeet.top/papers/\">do a speech</a> about the according software or hardware product, or just browse around and gain knowledge.\n  </p>\n\n  <p>\n    <b>Full transparency and neutrality note:</b> all the tools in this section are our personal recommendations. None of this section or any other sections of this website is sponsored by anyone.&nbsp;&nbsp;\n  </p>\n\n    <h2 id=\"hardware\">\n      Hardware\n    </h2>\n\n  <ul>\n    <li><a href=\"https://frame.work\" target=\"_blank\">Framework Laptops</a></li><li><a href=\"https://mntre.com\" target=\"_blank\">MNT Reform</a> - Dev ARM Laptop</li><li><a href=\"https://rpilocator.com/\" target=\"_blank\">Raspberry Pi</a>, <a href=\"http://www.orangepi.org/\" target=\"_blank\">Orange Pi</a> (prototyping)</li><li><a href=\"https://store.steampowered.com/steamdeck\" target=\"_blank\">Steam Deck</a> (mobility, gaming)</li>\n  </ul>\n\n    <h2 id=\"software\">\n      Software\n    </h2>\n\n  <ul>\n    <li><a href=\"http://archlinux.org/\" target=\"_blank\">Arch Linux</a> (literally used for everything)<br></li><li><a href=\"https://firefox.com\" target=\"_blank\">Firefox web browser</a></li><li><a href=\"https://getpublii.com/\" target=\"_blank\">Publii</a> (used to make this website)</li><li><a href=\"https://suckless.org/\" target=\"_blank\">Suckless Toolkit</a> - recommended software that heavily follows KISS principles<br></li>\n  </ul>\n\n    <h2 id=\"maker-software\">\n      Maker software\n    </h2>\n\n  <ul>\n    <li><a href=\"https://openscad.org/\" target=\"_blank\">OpenSCAD</a> - parametric modelling</li><li><a href=\"https://ultimaker.com/software/ultimaker-cura/\" target=\"_blank\">Cura</a> - 3D print preparation &amp; slicing</li><li><a href=\"https://blender.org\" target=\"_blank\">Blender</a> - modelling</li>\n  </ul>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T06:58:57+01:00",
-            "date_modified": "2024-04-15T19:54:56+02:00"
         }
     ]
 }

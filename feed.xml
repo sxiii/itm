@@ -3,12 +3,32 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-06-19T14:12:27+02:00</updated>
+    <updated>2024-06-19T14:21:24+02:00</updated>
     <author>
         <name>sxiii</name>
     </author>
     <id>https://itmeet.top</id>
 
+    <entry>
+        <title>Meetup</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://itmeet.top/meetup/"/>
+        <id>https://itmeet.top/meetup/</id>
+
+        <updated>2024-06-19T14:21:24+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script>
+		window.location.href = "https://www.meetup.com/expats-in-oslo/events/";
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Telegram</title>
         <author>
@@ -286,46 +306,6 @@
 
   <p>
     
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>International Tech Meetups</title>
-        <author>
-            <name>sxiii</name>
-        </author>
-        <link href="https://itmeet.top/itm-2/"/>
-        <id>https://itmeet.top/itm-2/</id>
-
-        <updated>2024-06-19T13:33:07+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Please RSVP for our event (both for online &amp; offline) at https://itmeet.top/rsvp Location: Rebel &amp; Online (Hybrid event) Address: Universitetsgata 2, Oslo Date &amp; Time:&nbsp;21&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    Please RSVP for our event (both for online &amp; offline) at <a href="https://itmeet.top/rsvp/">https://itmeet.top/rsvp</a><br>
-  </p>
-
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://itmeet.top/media/posts/9/ITM-June-2024-Group-Banner.png" height="1080" width="1920" alt="" />
-      
-    </figure>
-
-  <p>
-    <b>Location:</b> Rebel &amp; Online (Hybrid event)<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b>&nbsp;21 June 2024, 17:00<br><b>RSVP:</b> <a href="https://itmeet.top/rsvp" target="_blank" class="" data-link-popup-id="2e5306a0-3ae4-444a-96fd-1e7db06d57a3">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href="https://www.openstreetmap.org/node/9306426022" class="" target="_blank">OpenStreetMap</a>,&nbsp;<a href="https://maps.app.goo.gl/gQij6R3zVzJEmrXw9" target="_blank">Google map</a>, <a href="https://www.mapillary.com/app/?pKey=771391080436318" target="_blank">Mapiliary</a>, <a href="https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E" target="_blank">Other maps</a>)<br><b>Venue website:</b> <a href="https://rebel.no" target="_blank">rebel.no</a><br><b>Live stream:</b>&nbsp;<a href="https://itmeet.top/live" target="_blank">itmeet.top/live</a><br>
-  </p>
-
-  <p>
-    Meanwhile, check out our <a href="https://itmeet.top/events/">past events</a>.
-  </p>
-
-  <p>
-    Please use the top navigation menu to learn more about our events and community.
   </p>
             ]]>
         </content>

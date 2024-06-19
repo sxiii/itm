@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://itmeet.top/meetup/",
+            "url": "https://itmeet.top/meetup/",
+            "title": "Meetup",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://www.meetup.com/expats-in-oslo/events/\";\n\t</script>\n</p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T14:20:45+02:00",
+            "date_modified": "2024-06-19T14:21:24+02:00"
+        },
+        {
             "id": "https://itmeet.top/telegram/",
             "url": "https://itmeet.top/telegram/",
             "title": "Telegram",
@@ -131,20 +144,6 @@
             ],
             "date_published": "2024-01-25T14:26:37+01:00",
             "date_modified": "2024-01-30T19:40:18+01:00"
-        },
-        {
-            "id": "https://itmeet.top/itm-2/",
-            "url": "https://itmeet.top/itm-2/",
-            "title": "International Tech Meetups",
-            "summary": "Please RSVP for our event (both for online &amp; offline) at https://itmeet.top/rsvp Location: Rebel &amp; Online (Hybrid event) Address: Universitetsgata 2, Oslo Date &amp; Time:&nbsp;21&hellip;",
-            "content_html": "\n  <p>\n    Please RSVP for our event (both for online &amp; offline) at <a href=\"https://itmeet.top/rsvp/\">https://itmeet.top/rsvp</a><br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://itmeet.top/media/posts/9/ITM-June-2024-Group-Banner.png\" height=\"1080\" width=\"1920\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    <b>Location:</b> Rebel &amp; Online (Hybrid event)<br><b>Address:</b> Universitetsgata 2, Oslo<br><b>Date &amp; Time:</b>&nbsp;21 June 2024, 17:00<br><b>RSVP:</b> <a href=\"https://itmeet.top/rsvp\" target=\"_blank\" class=\"\" data-link-popup-id=\"2e5306a0-3ae4-444a-96fd-1e7db06d57a3\">on meetup</a><br><b>Map &amp; Route:</b>&nbsp;<a href=\"https://www.openstreetmap.org/node/9306426022\" class=\"\" target=\"_blank\">OpenStreetMap</a>,&nbsp;<a href=\"https://maps.app.goo.gl/gQij6R3zVzJEmrXw9\" target=\"_blank\">Google map</a>, <a href=\"https://www.mapillary.com/app/?pKey=771391080436318\" target=\"_blank\">Mapiliary</a>, <a href=\"https://geohack.toolforge.org/geohack.php?params=59_55_2_N_10_44_24_E\" target=\"_blank\">Other maps</a>)<br><b>Venue website:</b> <a href=\"https://rebel.no\" target=\"_blank\">rebel.no</a><br><b>Live stream:</b>&nbsp;<a href=\"https://itmeet.top/live\" target=\"_blank\">itmeet.top/live</a><br>\n  </p>\n\n  <p>\n    Meanwhile, check out our <a href=\"https://itmeet.top/events/\">past events</a>.\n  </p>\n\n  <p>\n    Please use the top navigation menu to learn more about our events and community.\n  </p>",
-            "author": {
-                "name": "sxiii"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-01-25T07:19:27+01:00",
-            "date_modified": "2024-06-19T13:33:07+02:00"
         }
     ]
 }

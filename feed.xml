@@ -3,7 +3,7 @@
     <title>ITMeet.top</title>
     <link href="https://itmeet.top/feed.xml" rel="self" />
     <link href="https://itmeet.top" />
-    <updated>2024-06-19T13:55:01+02:00</updated>
+    <updated>2024-06-19T14:12:27+02:00</updated>
     <author>
         <name>sxiii</name>
     </author>
@@ -17,13 +17,13 @@
         <link href="https://itmeet.top/telegram/"/>
         <id>https://itmeet.top/telegram/</id>
 
-        <updated>2024-06-19T13:55:01+02:00</updated>
+        <updated>2024-06-19T14:12:27+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p>
 <script>
-		fwindow.location.href = "https://t.me/itmeet_top";
+		window.location.href = "https://t.me/itmeet_top";
 	</script>
 </p>
             ]]>
@@ -37,12 +37,13 @@
         <link href="https://itmeet.top/facebook/"/>
         <id>https://itmeet.top/facebook/</id>
 
-        <updated>2024-06-19T13:54:03+02:00</updated>
+        <updated>2024-06-19T13:59:38+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <p>
-<script>fwindow.location.href = "https://fb.com/groups/itmeet";
+<script>
+		window.location.href = "https://fb.com/groups/itmeet";
 	</script>
 </p>
             ]]>
@@ -81,7 +82,7 @@
         <link href="https://itmeet.top/linkedin/"/>
         <id>https://itmeet.top/linkedin/</id>
 
-        <updated>2024-06-19T13:54:13+02:00</updated>
+        <updated>2024-06-19T13:59:44+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[

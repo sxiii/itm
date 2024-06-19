@@ -14,27 +14,27 @@
             "id": "https://itmeet.top/telegram/",
             "url": "https://itmeet.top/telegram/",
             "title": "Telegram",
-            "content_html": "<p>\n<script>\n\t\tfwindow.location.href = \"https://t.me/itmeet_top\";\n\t</script>\n</p>",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://t.me/itmeet_top\";\n\t</script>\n</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-06-19T13:54:29+02:00",
-            "date_modified": "2024-06-19T13:55:01+02:00"
+            "date_modified": "2024-06-19T14:12:27+02:00"
         },
         {
             "id": "https://itmeet.top/facebook/",
             "url": "https://itmeet.top/facebook/",
             "title": "Facebook",
-            "content_html": "<p>\n<script>fwindow.location.href = \"https://fb.com/groups/itmeet\";\n\t</script>\n</p>",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://fb.com/groups/itmeet\";\n\t</script>\n</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-06-19T13:52:50+02:00",
-            "date_modified": "2024-06-19T13:54:03+02:00"
+            "date_modified": "2024-06-19T13:59:38+02:00"
         },
         {
             "id": "https://itmeet.top/live/",
@@ -61,7 +61,7 @@
             "tags": [
             ],
             "date_published": "2024-02-17T06:27:35+01:00",
-            "date_modified": "2024-06-19T13:54:13+02:00"
+            "date_modified": "2024-06-19T13:59:44+02:00"
         },
         {
             "id": "https://itmeet.top/rsvp/",

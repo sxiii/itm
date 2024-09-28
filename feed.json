@@ -80,14 +80,14 @@
             "id": "https://itmeet.top/rsvp/",
             "url": "https://itmeet.top/rsvp/",
             "title": "RSVP",
-            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://www.meetup.com/expats-in-oslo/events/303503872/\";\n\t</script>\n</p>",
+            "content_html": "<p>\n<script>\n        window.location.href = \"https://www.meetup.com/expats-in-oslo/events/303700948/\";\n\t</script>\n</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-14T17:46:10+01:00",
-            "date_modified": "2024-09-20T17:28:06+02:00"
+            "date_modified": "2024-09-28T12:02:30+02:00"
         },
         {
             "id": "https://itmeet.top/help/",

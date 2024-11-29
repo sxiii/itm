@@ -54,14 +54,14 @@
             "url": "https://itmeet.top/live/",
             "title": "Live Stream",
             "summary": "Please wait for the redirect to occur.",
-            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://www.youtube.com/live/oNR4VISmZKU\";\n\t</script>\n</p>\n<p>Please wait for the redirect to occur.</p>",
+            "content_html": "<p>\n<script>\n\t\twindow.location.href = \"https://www.youtube.com/live/HH57Tr89Ls0\";\n\t</script>\n</p>\n<p>Please wait for the redirect to occur.</p>",
             "author": {
                 "name": "sxiii"
             },
             "tags": [
             ],
             "date_published": "2024-02-17T13:33:48+01:00",
-            "date_modified": "2024-10-25T00:01:18+02:00"
+            "date_modified": "2024-11-29T14:20:19+01:00"
         },
         {
             "id": "https://itmeet.top/linkedin/",
